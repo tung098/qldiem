@@ -1,0 +1,21 @@
+D:\minh\MTA\client_server\QLDiem1\Data\bin\Debug\Data.dll
+D:\minh\MTA\client_server\QLDiem1\Data\bin\Debug\Data.pdb
+D:\minh\MTA\client_server\QLDiem1\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\minh\MTA\client_server\QLDiem1\Data\obj\Debug\Data.dll
+D:\minh\MTA\client_server\QLDiem1\Data\obj\Debug\Data.pdb
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\Data\bin\Debug\Data.dll
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\Data\bin\Debug\Data.pdb
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\Data\obj\Debug\Data.csprojAssemblyReference.cache
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\Data\obj\Debug\Data.dll
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\Data\obj\Debug\Data.pdb
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\Data\bin\Debug\Data.dll
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\Data\bin\Debug\Data.pdb
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\Data\obj\Debug\Data.dll
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\Data\obj\Debug\Data.pdb
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\QuyetDV\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\Data\bin\Debug\Data.dll
+D:\QuyetDV\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\Data\bin\Debug\Data.pdb
+D:\QuyetDV\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\QuyetDV\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\Data\obj\Debug\Data.dll
+D:\QuyetDV\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\Data\obj\Debug\Data.pdb

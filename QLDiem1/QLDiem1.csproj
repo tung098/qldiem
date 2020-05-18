@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DD706C33-E8C6-4278-9C75-ACF0259EA4FE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QLDiem1</RootNamespace>
+    <AssemblyName>QLDiem1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=14.1.0.13, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGiangVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiangVien.Designer.cs">
+      <DependentUpon>frmGiangVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLDiem.Designer.cs">
+      <DependentUpon>frmQLDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLHocPhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLHocPhan.Designer.cs">
+      <DependentUpon>frmQLHocPhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLLHP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLLHP.Designer.cs">
+      <DependentUpon>frmQLLHP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLLop.Designer.cs">
+      <DependentUpon>frmQLLop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSinhVien.Designer.cs">
+      <DependentUpon>frmSinhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGiangVien.resx">
+      <DependentUpon>frmGiangVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLDiem.resx">
+      <DependentUpon>frmQLDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLHocPhan.resx">
+      <DependentUpon>frmQLHocPhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLLHP.resx">
+      <DependentUpon>frmQLLHP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLLop.resx">
+      <DependentUpon>frmQLLop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSinhVien.resx">
+      <DependentUpon>frmSinhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Data\Data.csproj">
+      <Project>{0600e34a-f6c1-40ae-92e8-f6fd8abcfac4}</Project>
+      <Name>Data</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Abort.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Abort1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Add1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Back1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Check1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Copy1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Cut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Cut1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Delete1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Edit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Excel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Exit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Forward.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Forward1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Paste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Paste1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Print1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Save1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Search1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Update1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Upload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_Upload1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_UploadImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_UploadImage1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_12_-_Invoice_2102048.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_account_friend_human_man_member_person_profile_user_users_392531.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_category_59437.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_exit_3226.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_export_84568.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_import_84675.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_interface-70_809255.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_internt_web_technology-12_274899.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_kthememgr_7240 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_kthememgr_7240.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_manual-book-information-guide-handbook_3802013.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_on-off_42283.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_product-sales-report_49607.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_report_card_2639898.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_report_card_26398981.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_user_login_61841.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_warehouse_103222 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_warehouse_103222.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Warehouse_3992927.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_window-system_299093 %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

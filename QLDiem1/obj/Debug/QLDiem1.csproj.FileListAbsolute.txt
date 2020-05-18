@@ -1,0 +1,66 @@
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\bin\Debug\QLDiem1.exe.config
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\bin\Debug\QLDiem1.exe
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\bin\Debug\QLDiem1.pdb
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\obj\Debug\QLDiem1.csprojResolveAssemblyReference.cache
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\obj\Debug\QLDiem1.Form1.resources
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\obj\Debug\QLDiem1.Properties.Resources.resources
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\obj\Debug\QLDiem1.csproj.GenerateResource.Cache
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\obj\Debug\QLDiem1.csproj.CoreCompileInputs.cache
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\obj\Debug\QLDiem1.exe
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\obj\Debug\QLDiem1.pdb
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\bin\Debug\DevComponents.DotNetBar2.dll
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\bin\Debug\DevComponents.DotNetBar2.xml
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmSinhVien.resources
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmGiangVien.resources
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmQLDiem.resources
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmQLHocPhan.resources
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmQLLHP.resources
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmQLLop.resources
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmLogin.resources
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\bin\Debug\Data.dll
+D:\minh\MTA\client_server\QLDiem1\QLDiem1\bin\Debug\Data.pdb
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\bin\Debug\QLDiem1.exe.config
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\bin\Debug\QLDiem1.exe
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\bin\Debug\QLDiem1.pdb
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\bin\Debug\Data.dll
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\bin\Debug\DevComponents.DotNetBar2.dll
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\bin\Debug\Data.pdb
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\bin\Debug\DevComponents.DotNetBar2.xml
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\obj\Debug\QLDiem1.csprojAssemblyReference.cache
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\obj\Debug\QLDiem1.Form1.resources
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmGiangVien.resources
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmLogin.resources
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmQLDiem.resources
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmQLHocPhan.resources
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmQLLHP.resources
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmQLLop.resources
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmSinhVien.resources
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\obj\Debug\QLDiem1.Properties.Resources.resources
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\obj\Debug\QLDiem1.csproj.GenerateResource.cache
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\obj\Debug\QLDiem1.csproj.CoreCompileInputs.cache
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\obj\Debug\QLDiem1.csproj.CopyComplete
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\obj\Debug\QLDiem1.exe
+E:\HK 1 - 2019-2020\CLIENT-SERVER\QLDiem1\QLDiem1\obj\Debug\QLDiem1.pdb
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\bin\Debug\QLDiem1.exe.config
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\obj\Debug\QLDiem1.exe
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\obj\Debug\QLDiem1.pdb
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\bin\Debug\QLDiem1.exe
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\bin\Debug\QLDiem1.pdb
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\bin\Debug\Data.dll
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\bin\Debug\DevComponents.DotNetBar2.dll
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\bin\Debug\Data.pdb
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\bin\Debug\DevComponents.DotNetBar2.xml
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\obj\Debug\QLDiem1.csprojResolveAssemblyReference.cache
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\obj\Debug\QLDiem1.Form1.resources
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmGiangVien.resources
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmLogin.resources
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmQLDiem.resources
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmQLHocPhan.resources
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmQLLHP.resources
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmQLLop.resources
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\obj\Debug\QLDiem1.frmSinhVien.resources
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\obj\Debug\QLDiem1.Properties.Resources.resources
+F:\HVKTQS\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\obj\Debug\QLDiem1.csproj.GenerateResource.Cache
+D:\QuyetDV\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\obj\Debug\QLDiem1.csprojAssemblyReference.cache
+D:\QuyetDV\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\obj\Debug\QLDiem1.exe
+D:\QuyetDV\Ky_8\CONG_NGHE_Client-server\BTL\QLDiem1\QLDiem1\obj\Debug\QLDiem1.pdb
